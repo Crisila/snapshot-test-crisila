@@ -20,7 +20,7 @@ exports[`GitHubCard snapshot 1`] = `
     <p
       className="card-text"
     >
-      Blurb Blurb TEST ONLY
+      Blurb Blurb TEST ONLY More changes
     </p>
   </div>
 </div>
