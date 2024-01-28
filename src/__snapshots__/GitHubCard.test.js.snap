@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard snapshot 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Your Photo"
+    className="card-img-top"
+    src="https://hips.hearstapps.com/hmg-prod/images/cute-cat-photos-1593441022.jpg?crop=0.670xw:1.00xh;0.167xw,0&resize=640:*"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Crisila
+    </div>
+    <p
+      className="card-text"
+    >
+      Blurb Blurb TEST ONLY
+    </p>
+  </div>
+</div>
+`;
