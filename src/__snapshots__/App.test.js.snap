@@ -22,6 +22,9 @@ exports[`renders a snapshot 1`] = `
         Hello
       </h2>
     </p>
+    <p>
+      TEST
+    </p>
     <a
       className="App-link"
       href="https://reactjs.org"
